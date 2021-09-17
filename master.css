@@ -1,0 +1,27 @@
+h1{
+    color:blue;
+}
+li{
+    color:rgb(200,50,0);
+}
+p{
+    color: #1cea1c;
+}
+h4{
+    color:rgba(13,90,140,.5)
+}
+div{
+    background-color: blue;
+    /* border:orange;
+    border-width: 20px;
+    border-style: dashed; */
+    border: red 10px dashed;
+}
+/* body{
+    background: url(Cat.jpg);
+    background-repeat: no-repeat;
+} */
+span{
+    background: red;
+    color: black;
+}

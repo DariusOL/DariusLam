@@ -1,0 +1,20 @@
+.firstDiv{
+    color:blue;
+}
+.secondDiv{
+    background-color: gray;
+}
+#singledOut{
+    color:green;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+#one{
+
+}
+
+#two{
+    font-family:'Pacifico', cursive;
+}
